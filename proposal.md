@@ -18,7 +18,7 @@
 * Plataforma de alquiler de autos ubicada en Argentina que ofrece una amplia variedad de vehículos para satisfacer las necesidades de los clientes, donde pueden gestionar sus alquileres y la concesionaria puede llevar un control de los mismos.
 
 ### Modelo
-![imagen del modelo](https://drive.google.com/file/d/1YAH6TvcWhzhRybeVuIafzx-yVvWhy0Pw/view?usp=drive_link)
+* Imagen del modelo: https://drive.google.com/file/d/1YAH6TvcWhzhRybeVuIafzx-yVvWhy0Pw/view?usp=drive_link
 
 ## Alcance Funcional 
 
