@@ -2,15 +2,14 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
 * 47894 - Stassi, José Ignacio
 * 47901 - Sinopoli, Martina
 * 48038 - Tabini, Azul
 * 48237 - Gonzalez, Luciano
 
 ### Repositorios
-* [frontend app](https://github.com/TP-Desarrollo/Backend-tp-DSW)
-* [backend app](https://github.com/TP-Desarrollo/Frontend-tp-DSW)
+* [Frontend app](https://github.com/TP-Desarrollo/Backend-tp-DSW)
+* [Backend app](https://github.com/TP-Desarrollo/Frontend-tp-DSW)
 
 ## Tema
 * Alquiler de autos
