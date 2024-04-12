@@ -34,7 +34,7 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Vehiculo<br>2. CRUD Alquiler<br>3. CRUD Localidad<br>4. CRUD Empleado<br>5. CRUD <br>6. CRUD Vehiculo<br>|
+|CRUD |1. CRUD Tipo Vehiculo<br>2. CRUD Alquiler<br>3. CRUD Localidad<br>4. CRUD Empleado<br>5. CRUD Cliente<br>6. CRUD Vehiculo<br>|
 |CUU/Epic|1. Alquiler de un vehiculo<br>2. Realizar inicio del alquiler<br>3. Realizar fin alquiler y facturación <br> 4. Cancelar alquiler|
 
 
