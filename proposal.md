@@ -8,8 +8,8 @@
 * 48237 - Gonzalez, Luciano
 
 ### Repositorios
-* [Frontend app](https://github.com/TP-Desarrollo/Backend-tp-DSW)
-* [Backend app](https://github.com/TP-Desarrollo/Frontend-tp-DSW)
+* [Frontend app](https://github.com/TP-Desarrollo/Frontend-tp-DSW)
+* [Backend app](https://github.com/TP-Desarrollo/Backend-tp-DSW)
 
 ## Tema
 * Alquiler de autos
