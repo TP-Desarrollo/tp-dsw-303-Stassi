@@ -6,7 +6,13 @@ Planteamos dudas sobre ciertos casos de uso para ver si están dentro del alcanc
 # Minuta 2 - 17/06/2024
 Se realizo el primer CRUD Simple en memoria de "Localidad". Tambien se actualizo el README del trabajo que contenia un error en los links de los repos de front y back (estaban al revés).
 Quedan a resolver los siguientes temas:
-* Planteo de Boilerplate del FrontEnd
+* Planteo de Boilerplate del FrontEnd.
 * Revisar entrega del primer CRUD Simple en caso de faltar algo o tener que ser modificado.
-* Planteo de la estructura del front (donde va a estar el menu, el login de usuario)
+* Planteo de la estructura del front (donde va a estar el menu, el login de usuario).
 * Dudas de tipeo de codigo entre los integrantes.
+
+# Minuta 3 - 21/06/2024
+Se aplico el ORM a la app, la clase "Localidad" ya funciona con el ORM
+Queda para resolver:
+* Temas mencionados en la minuta 2.
+* Realizar CRUDs restantes para terminar la entrega de backend.
